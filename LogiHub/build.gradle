@@ -18,9 +18,9 @@ repositories {
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-actuator' //health check
 	implementation 'org.springframework.boot:spring-boot-starter-web'
-	implementation 'org.mybatis.spring.boot:mybatis-spring-boot-starter:2.3' //mybatis
+	implementation 'org.mybatis.spring.boot:mybatis-spring-boot-starter:2.3.2' //mybatis
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
-	testImplementation 'org.mybatis.spring.boot:mybatis-spring-boot-starter-test:2.3'
+	testImplementation 'org.mybatis.spring.boot:mybatis-spring-boot-starter-test:2.3.2'
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 }
 
