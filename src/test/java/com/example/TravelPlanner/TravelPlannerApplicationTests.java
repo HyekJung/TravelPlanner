@@ -1,10 +1,10 @@
-package com.example.LogiHub;
+package com.example.TravelPlanner;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LogiHubApplicationTests {
+class TravelPlannerApplicationTests {
 
 	@Test
 	void contextLoads() {
